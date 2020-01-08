@@ -3,6 +3,12 @@
 ## Description
 Braille literacy within the blind community has declined in recent decades with the advent of text-to-voice and other audio technologies. The braillebook is a protoype embedded device created as a Braille learning tool.  
 
+#### Senior Capstone Website
+http://www.ecs.umass.edu/ece/sdp/sdp16/team15/sdp16.my-free.website/index.html
+
+#### Youtube Video Demonstration
+https://www.youtube.com/watch?v=BM0kxXhXlFY
+
 ## Hardware
 The design implements pairs of 3D printed 8-sided rotating disks with Braille faces that combine to display any 6-dot Braille character. 
 
